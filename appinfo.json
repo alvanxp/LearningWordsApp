@@ -1,0 +1,24 @@
+{
+  "uuid": "66e4459f-292a-40dd-a32f-6e0d2962ff16",
+  "shortName": "LearningWordsApp",
+  "longName": "LearningWordsApp",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "capabilities": [
+  "location"
+  ],
+  "projectType": "native",
+  "appKeys": {
+    "KEY_DESCRIPTION": 2,
+    "KEY_TOWORD": 1,
+    "KEY_WORD": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
